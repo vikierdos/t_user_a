@@ -13,6 +13,7 @@ class Task extends Model
         'name',
         'costs',
         'time',
-        'manager_id'
+        'manager_id',
+        'project_id'
     ];
 }

@@ -14,7 +14,7 @@ class Project extends Model
         'description',
         'end_date',
         'status',
-        'user_id',
-        'project_id'
+        'user_id'
+        
     ];
 }
